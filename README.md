@@ -32,4 +32,3 @@ samples, guidance on mobile development, and a full API reference.
 
 
 For communicaton purpose regarding queries please follow [this](https://discord.com/channels/885149696249708635/892440973664198686).
-# Auction_dapp
